@@ -15,4 +15,5 @@ Este script PowerShell foi desenvolvido para automatizar o processo de importaç
 
 # Autor
 Lucas Perdigão de Oliveira
+
 lucaspolivira@gmail.com
